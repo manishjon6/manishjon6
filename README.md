@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @manishjon6
+- 👋 Hi, I’m Manish Jon
 - 👀 I’m interested in Python Coding
 - 🌱 I’m currently learning CyberSecurity
 - 💞️ I’m looking to collaborate on WebHacking
